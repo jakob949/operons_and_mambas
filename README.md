@@ -1,2 +1,1 @@
-# operons_and_mambas
-Prediction and analysis of operons 
+# Prediction of operon structures 
